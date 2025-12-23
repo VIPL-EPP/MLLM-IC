@@ -16,14 +16,12 @@ This repository provides code and tools for reproducing the robustness benchmark
 
 ## 📦 Dataset & Benchmark
 
-We provide the full **MLLM-IC Benchmark** and a streamlined subset for quick evaluation.
+We provide a streamlined MLLM-IC-mini subset for quick evaluation. The full MLLM-IC Benchmark (more than 300GB) is not hosted in this repository due to its size.
 
-| Resource                         | Description                              | Status            |
-|----------------------------------|------------------------------------------|-------------------|
-| 📥 MLLM-IC (Full)       | Full benchmark. | 🔄 Coming Soon     |
-| 📥 MLLM-IC (Subset)| Lightweight version for fast evaluation.            | 🔄 Coming Soon     |
-
-> ⚠️ **Note**: Download links and dataset details will be updated in future releases. Stay tuned!
+| Resource                 | Description                               | Status                      |
+| ------------------------ | ----------------------------------------- | --------------------------- |
+| 📦 MLLM-IC (Full)        | Full benchmark. Not hosted here. | —                           |
+| 📥 MLLM-IC-mini (Subset) | Lightweight version for fast evaluation.  | ✅ Available in **Releases** |
 
 
 ## 🖼️ Corruption Dimensions
